@@ -12,6 +12,7 @@ This project was bootstrapped with [Create React App]
 
 Sneakers es mi proyecto de E-commerce para mi curso de React JS de Coderhouse.
 
+
 ## Entorno de ejecucion utilizado
 
 Utilizo el gestor de paquetes NPM de NODE.jS.
@@ -23,6 +24,8 @@ En esta ocasión no utilicé ningun Framework, los estilos de la APP fueron hech
 Todo el catálogo de productos de la APP fueron cargados en la base de datos FIREBASE de Google.
 
 ## short video de la APP.
+
+https://youtu.be/YE-qAa8p7Jc
 
 ## Available Scripts
 In the project directory, you can run:
